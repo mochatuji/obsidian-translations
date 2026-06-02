@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "H1VTG9aszq4whoYrCKktJ-Se1v8e4X0i",
+        "plugin": "oz-clear-unused-images",
+        "language": "zh-cn",
+        "version": "1.1.1",
+        "supported_versions": "1.1.1",
+        "title": "[CTTC] Clear Unused Images",
+        "description": "Clear Unused Images Localization & Tweaks",
+        "hash": "73c1d1f773c1d1f773c1d1f773c1d1f7",
+        "created_at": "2026-06-02T15:28:03.310Z",
+        "updated_at": "2026-06-02T15:28:03.310Z",
+        "type": "plugin"
+    }
+]
